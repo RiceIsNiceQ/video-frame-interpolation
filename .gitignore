@@ -1,0 +1,9 @@
+.venv
+default-*
+/*.png
+/*.gif
+data
+model_weights
+README.pdf
+output
+.vscode
